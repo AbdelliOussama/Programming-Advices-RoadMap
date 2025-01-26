@@ -1,4 +1,4 @@
-# Programming-Advices-Corses
+# Programming-Advices-Courses
 How to learn programming the right way? do not waste your time in the wrong place This is to summarize it:
 
 1- Stay away from negative people: negative people will make you disappointed about programming, they will say: ” its hard, it has no future, you will never find jobs , Salaries are low …etc” , never ask people who failed in this field; always ask successful people.
