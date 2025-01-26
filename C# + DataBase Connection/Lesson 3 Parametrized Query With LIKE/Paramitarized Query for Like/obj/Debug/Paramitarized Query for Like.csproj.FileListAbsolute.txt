@@ -1,0 +1,15 @@
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Paramitarized Query for Like\bin\Debug\Retrieve All Contacts.exe.config
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Paramitarized Query for Like\bin\Debug\Retrieve All Contacts.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Paramitarized Query for Like\bin\Debug\Retrieve All Contacts.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Paramitarized Query for Like\obj\Debug\Paramitarized Query for Like.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Paramitarized Query for Like\obj\Debug\Paramitarized Query for Like.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Paramitarized Query for Like\obj\Debug\Paramitarized Query for Like.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Paramitarized Query for Like\obj\Debug\Retrieve All Contacts.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Paramitarized Query for Like\obj\Debug\Retrieve All Contacts.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Paramitarized Query for Like\bin\Debug\Retrieve All Contacts.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Paramitarized Query for Like\bin\Debug\Retrieve All Contacts.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Paramitarized Query for Like\bin\Debug\Retrieve All Contacts.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Paramitarized Query for Like\obj\Debug\Paramitarized Query for Like.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Paramitarized Query for Like\obj\Debug\Paramitarized Query for Like.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Paramitarized Query for Like\obj\Debug\Retrieve All Contacts.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Paramitarized Query for Like\obj\Debug\Retrieve All Contacts.pdb

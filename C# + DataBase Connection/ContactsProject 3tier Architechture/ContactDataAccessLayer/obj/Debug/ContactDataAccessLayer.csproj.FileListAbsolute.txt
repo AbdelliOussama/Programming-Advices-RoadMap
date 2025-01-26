@@ -1,0 +1,6 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactsProject 3tier Architechture\ContactDataAccessLayer\bin\Debug\ContactDataAccessLayer.dll
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactsProject 3tier Architechture\ContactDataAccessLayer\bin\Debug\ContactDataAccessLayer.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactsProject 3tier Architechture\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactsProject 3tier Architechture\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactsProject 3tier Architechture\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.dll
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactsProject 3tier Architechture\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.pdb

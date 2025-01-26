@@ -1,0 +1,23 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\RetreiveData\bin\Debug\RetreiveData.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\RetreiveData\bin\Debug\RetreiveData.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\RetreiveData\bin\Debug\RetreiveData.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\RetreiveData\obj\Debug\FindSingleContact.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\RetreiveData\obj\Debug\FindSingleContact.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\RetreiveData\obj\Debug\FindSingleContact.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\RetreiveData\obj\Debug\RetreiveData.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\RetreiveData\obj\Debug\RetreiveData.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\FindSingleContact\obj\Debug\FindSingleContact.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\FindSingleContact\obj\Debug\FindSingleContact.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\FindSingleContact\obj\Debug\FindSingleContact.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\FindSingleContact\obj\Debug\RetreiveData.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\FindSingleContact\obj\Debug\RetreiveData.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\FindSingleContact\bin\Debug\RetreiveData.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\FindSingleContact\bin\Debug\RetreiveData.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\FindSingleContact\bin\Debug\RetreiveData.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\FindSingleContact\bin\Debug\RetreiveData.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\FindSingleContact\bin\Debug\RetreiveData.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\FindSingleContact\bin\Debug\RetreiveData.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\FindSingleContact\obj\Debug\FindSingleContact.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\FindSingleContact\obj\Debug\FindSingleContact.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\FindSingleContact\obj\Debug\RetreiveData.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\FindSingleContact\obj\Debug\RetreiveData.pdb

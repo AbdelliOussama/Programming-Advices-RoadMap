@@ -1,0 +1,33 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\obj\Debug\ContactsPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\obj\Debug\ContactsPresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\obj\Debug\ContactsPresentationLayer.csproj.GenerateResource.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\obj\Debug\ContactsPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\bin\Debug\Contacts.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\bin\Debug\Contacts.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\bin\Debug\ContactBusinessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\obj\Debug\ContactsPresentationLayer.csproj.CopyComplete
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\obj\Debug\Contacts.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\obj\Debug\Contacts.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\obj\Debug\Contacts.frmListContacts.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\Contacts\obj\Debug\Contacts.frmAddEditContact.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\bin\Debug\Contacts.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\bin\Debug\Contacts.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\bin\Debug\ContactBusinessLayer.dll
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\obj\Debug\ContactsPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\obj\Debug\Contacts.frmAddEditContact.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\obj\Debug\Contacts.frmListContacts.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\obj\Debug\ContactsPresentationLayer.csproj.GenerateResource.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\obj\Debug\ContactsPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\obj\Debug\Contacts.3D89028D.Up2Date
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\obj\Debug\Contacts.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\ContactWindowsMrAbuHadhoud\Contacts\obj\Debug\Contacts.pdb

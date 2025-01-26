@@ -1,0 +1,7 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\Find One Contact Version2\bin\Debug\Find One Contact Version2.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\Find One Contact Version2\bin\Debug\Find One Contact Version2.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\Find One Contact Version2\bin\Debug\Find One Contact Version2.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\Find One Contact Version2\obj\Debug\Find One Contact Version2.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\Find One Contact Version2\obj\Debug\Find One Contact Version2.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\Find One Contact Version2\obj\Debug\Find One Contact Version2.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\Find One Contact Version2\obj\Debug\Find One Contact Version2.pdb

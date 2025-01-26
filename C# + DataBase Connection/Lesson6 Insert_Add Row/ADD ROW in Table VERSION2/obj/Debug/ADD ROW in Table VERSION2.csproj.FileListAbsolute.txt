@@ -1,0 +1,7 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson6 Insert_Add Row\ADD ROW in Table VERSION2\bin\Debug\ADD ROW in Table VERSION2.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson6 Insert_Add Row\ADD ROW in Table VERSION2\bin\Debug\ADD ROW in Table VERSION2.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson6 Insert_Add Row\ADD ROW in Table VERSION2\bin\Debug\ADD ROW in Table VERSION2.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson6 Insert_Add Row\ADD ROW in Table VERSION2\obj\Debug\ADD ROW in Table VERSION2.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson6 Insert_Add Row\ADD ROW in Table VERSION2\obj\Debug\ADD ROW in Table VERSION2.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson6 Insert_Add Row\ADD ROW in Table VERSION2\obj\Debug\ADD ROW in Table VERSION2.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson6 Insert_Add Row\ADD ROW in Table VERSION2\obj\Debug\ADD ROW in Table VERSION2.pdb

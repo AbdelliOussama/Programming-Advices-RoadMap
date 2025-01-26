@@ -1,0 +1,7 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\RetrievAutoNumber after Adding\bin\Debug\RetrievAutoNumber after Adding.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\RetrievAutoNumber after Adding\bin\Debug\RetrievAutoNumber after Adding.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\RetrievAutoNumber after Adding\bin\Debug\RetrievAutoNumber after Adding.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\RetrievAutoNumber after Adding\obj\Debug\RetrievAutoNumber after Adding.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\RetrievAutoNumber after Adding\obj\Debug\RetrievAutoNumber after Adding.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\RetrievAutoNumber after Adding\obj\Debug\RetrievAutoNumber after Adding.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson5  Retrieve Single Line\RetrievAutoNumber after Adding\obj\Debug\RetrievAutoNumber after Adding.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADD ROW in Table VERSION2", "ADD ROW in Table VERSION2.csproj", "{13F8C25C-FFFD-45E5-8423-4ECACECE75AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F8C25C-FFFD-45E5-8423-4ECACECE75AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F8C25C-FFFD-45E5-8423-4ECACECE75AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F8C25C-FFFD-45E5-8423-4ECACECE75AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F8C25C-FFFD-45E5-8423-4ECACECE75AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9F7B15-8444-4EDB-B4D3-02C2FC06C90A}
+	EndGlobalSection
+EndGlobal

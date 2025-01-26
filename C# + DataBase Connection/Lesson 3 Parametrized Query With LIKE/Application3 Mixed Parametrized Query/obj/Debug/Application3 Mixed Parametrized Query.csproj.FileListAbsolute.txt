@@ -1,0 +1,7 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Application3 Mixed Parametrized Query\bin\Debug\Application3 Mixed Parametrized Query.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Application3 Mixed Parametrized Query\bin\Debug\Application3 Mixed Parametrized Query.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Application3 Mixed Parametrized Query\bin\Debug\Application3 Mixed Parametrized Query.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Application3 Mixed Parametrized Query\obj\Debug\Application3 Mixed Parametrized Query.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Application3 Mixed Parametrized Query\obj\Debug\Application3 Mixed Parametrized Query.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Application3 Mixed Parametrized Query\obj\Debug\Application3 Mixed Parametrized Query.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson 3 Parametrized Query With LIKE\Application3 Mixed Parametrized Query\obj\Debug\Application3 Mixed Parametrized Query.pdb

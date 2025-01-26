@@ -1,0 +1,15 @@
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Delete Data\bin\Debug\Retrieve All Contacts.exe.config
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Delete Data\bin\Debug\Retrieve All Contacts.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Delete Data\bin\Debug\Retrieve All Contacts.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Delete Data\obj\Debug\Delete Data.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Delete Data\obj\Debug\Delete Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Delete Data\obj\Debug\Delete Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Delete Data\obj\Debug\Retrieve All Contacts.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\18 ADO\Projects\Delete Data\obj\Debug\Retrieve All Contacts.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson8 Delete Row\Delete Data\bin\Debug\Retrieve All Contacts.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson8 Delete Row\Delete Data\bin\Debug\Retrieve All Contacts.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson8 Delete Row\Delete Data\bin\Debug\Retrieve All Contacts.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson8 Delete Row\Delete Data\obj\Debug\Delete Data.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson8 Delete Row\Delete Data\obj\Debug\Delete Data.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson8 Delete Row\Delete Data\obj\Debug\Retrieve All Contacts.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# + DataBase Connection\Lesson8 Delete Row\Delete Data\obj\Debug\Retrieve All Contacts.pdb
