@@ -1,0 +1,4 @@
+﻿  EX19.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\EX19\EX19\EX19.cpp(3,18): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\EX19\EX19\EX19.cpp(9,23): warning C4244: '=' : conversion de 'float' en 'short', perte possible de données
+  EX19.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\EX19\x64\Debug\EX19.exe

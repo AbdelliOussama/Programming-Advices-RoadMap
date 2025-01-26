@@ -1,0 +1,31 @@
+﻿  Find client.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\clsString.h(43,25): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Find%20client.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\clsString.h(48,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Find%20client.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\clsString.h(60,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Find%20client.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\clsString.h(197,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Find%20client.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\clsString.h(328,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Find%20client.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\clsString.h(376,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Find%20client.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\clsBankClient.h(27,65): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'Find%20client.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\clsInputValidate.h(101,16): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'Find%20client.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\clsInputValidate.h(105,26): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'Find%20client.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\Find client.cpp(24,62): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\Find client\clsBankClient.h(317,1): warning C4715: 'clsBankClient::Save' : les chemins de contrôle ne retournent pas tous une valeur
+  Find client.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\Find client\x64\Debug\Find client.exe

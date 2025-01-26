@@ -1,0 +1,4 @@
+﻿  replace word in string.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\replace word in string\replace word in string\replace word in string.cpp(13,10): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\replace word in string\replace word in string\replace word in string.cpp(17,22): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  replace word in string.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\replace word in string\x64\Debug\replace word in string.exe

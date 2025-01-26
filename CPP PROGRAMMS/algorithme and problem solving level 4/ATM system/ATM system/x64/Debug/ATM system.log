@@ -1,0 +1,3 @@
+﻿  ATM system.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 4\ATM system\ATM system\ATM system.cpp(26,23): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  ATM system.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 4\ATM system\x64\Debug\ATM system.exe

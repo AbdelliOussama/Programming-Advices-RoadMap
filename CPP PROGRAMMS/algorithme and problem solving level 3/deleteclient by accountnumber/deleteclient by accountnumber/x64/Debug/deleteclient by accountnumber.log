@@ -1,0 +1,4 @@
+﻿  deleteclient by accountnumber.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\deleteclient by accountnumber\deleteclient by accountnumber\deleteclient by accountnumber.cpp(23,37): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\deleteclient by accountnumber\deleteclient by accountnumber\deleteclient by accountnumber.cpp(156): warning C4715: 'DeleteClientByAccountNumber' : les chemins de contrôle ne retournent pas tous une valeur
+  deleteclient by accountnumber.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\deleteclient by accountnumber\x64\Debug\deleteclient by accountnumber.exe

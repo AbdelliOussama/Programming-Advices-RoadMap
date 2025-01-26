@@ -1,0 +1,4 @@
+﻿  EX18 cercle area.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\Correction of algorithmes and problems\EX18 cercle area\EX18 cercle area\EX18 cercle area.cpp(4,18): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\Correction of algorithmes and problems\EX18 cercle area\EX18 cercle area\EX18 cercle area.cpp(16,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  EX18 cercle area.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\Correction of algorithmes and problems\EX18 cercle area\x64\Debug\EX18 cercle area.exe

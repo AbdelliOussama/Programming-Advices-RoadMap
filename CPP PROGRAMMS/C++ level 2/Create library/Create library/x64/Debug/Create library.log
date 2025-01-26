@@ -1,0 +1,8 @@
+﻿  Create library.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\C++ level 2\Create library\Create library\My math function.h(20,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source 'Create%20library.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\C++ level 2\Create library\Create library\My math function.h(22,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source 'Create%20library.cpp')
+  
+  Create library.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\C++ level 2\Create library\x64\Debug\Create library.exe

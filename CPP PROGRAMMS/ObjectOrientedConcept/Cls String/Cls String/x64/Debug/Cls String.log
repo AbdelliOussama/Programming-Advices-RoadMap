@@ -1,0 +1,5 @@
+﻿  Cls String.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls String\Cls String\clsString.h(46,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Cls%20String.cpp')
+  
+  Cls String.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls String\x64\Debug\Cls String.exe

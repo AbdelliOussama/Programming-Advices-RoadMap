@@ -1,0 +1,3 @@
+﻿  type_conversion.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\type_conversion\type_conversion\type_conversion.cpp(5,11): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  type_conversion.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\type_conversion\x64\Debug\type_conversion.exe

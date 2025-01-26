@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\CORRECTION OF PROBLEM SERIE 2\\Project 1 Game stone paper scissor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB219584-0FAB-407A-9434-5B0F4FBE039C}|Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor.vcxproj|C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\CORRECTION OF PROBLEM SERIE 2\\Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB219584-0FAB-407A-9434-5B0F4FBE039C}|Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor.vcxproj|solutionrelative:Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 1 Game stone paper scissor.cpp",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\CORRECTION OF PROBLEM SERIE 2\\Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor.cpp",
+              "RelativeDocumentMoniker": "Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor.cpp",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\CORRECTION OF PROBLEM SERIE 2\\Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor.cpp",
+              "RelativeToolTip": "Project 1 Game stone paper scissor\\Project 1 Game stone paper scissor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-29T10:32:39.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

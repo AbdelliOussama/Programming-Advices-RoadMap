@@ -1,0 +1,6 @@
+﻿  EX49 my ceil function.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\CORRECTION OF PROBLEM SERIE 2\EX49 my ceil function\EX49 my ceil function\EX49 my ceil function.cpp(11,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\CORRECTION OF PROBLEM SERIE 2\EX49 my ceil function\EX49 my ceil function\EX49 my ceil function.cpp(24,11): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\CORRECTION OF PROBLEM SERIE 2\EX49 my ceil function\EX49 my ceil function\EX49 my ceil function.cpp(26,11): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\CORRECTION OF PROBLEM SERIE 2\EX49 my ceil function\EX49 my ceil function\EX49 my ceil function.cpp(35,15): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  EX49 my ceil function.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\CORRECTION OF PROBLEM SERIE 2\EX49 my ceil function\x64\Debug\EX49 my ceil function.exe

@@ -1,0 +1,54 @@
+﻿  join string overloading.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(32,9): error C2665: 'joinstring' : aucune fonction surchargée n’a pu convertir tous les types d’arguments.
+  C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(16,8):
+  est peut-être 'std::string joinstring(std::string,int,std::string)'
+  	C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(32,9):
+  	'std::string joinstring(std::string,int,std::string)' : impossible de convertir l'argument 1 de 'std::string [5]' en 'std::string'
+  		C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(32,20):
+  		'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' : aucune fonction surchargée n’a pu convertir tous les types d’arguments.
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2545,5):
+  			est peut-être 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+  				C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(32,20):
+  				'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )' : impossible de convertir l'argument 1 de 'std::string [5]' en 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+  					C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(32,20):
+  					Les types pointés ne sont pas liés ; la conversion nécessite un reinterpret_cast, un cast de style C ou un cast de style fonction entre parenthèses.
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(3092,5):
+  			ou       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+  				C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(32,20):
+  				'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)' : impossible de convertir l'argument 1 de 'std::string [5]' en 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+  					C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(32,20):
+  					La conversion requiert un second constructeur ou opérateur de conversion défini par l'utilisateur
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2575,5):
+  			ou       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+  			C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(32,20):
+  			lors de la tentative de mise en correspondance de la liste des arguments '(std::string [5])'
+  C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(32,9):
+  lors de la tentative de mise en correspondance de la liste des arguments '(std::string [5], int, const char [2])'
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\join string overloading\join string overloading\join string overloading.cpp(32,6): error C2088: '<<' : non conforme pour class

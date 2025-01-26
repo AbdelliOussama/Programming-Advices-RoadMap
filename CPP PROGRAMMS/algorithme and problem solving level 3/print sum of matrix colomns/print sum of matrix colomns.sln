@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "print sum of matrix colomns", "print sum of matrix colomns\print sum of matrix colomns.vcxproj", "{DABD9E83-DA6B-4885-8612-06208480CA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABD9E83-DA6B-4885-8612-06208480CA3D}.Debug|x64.ActiveCfg = Debug|x64
+		{DABD9E83-DA6B-4885-8612-06208480CA3D}.Debug|x64.Build.0 = Debug|x64
+		{DABD9E83-DA6B-4885-8612-06208480CA3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{DABD9E83-DA6B-4885-8612-06208480CA3D}.Debug|x86.Build.0 = Debug|Win32
+		{DABD9E83-DA6B-4885-8612-06208480CA3D}.Release|x64.ActiveCfg = Release|x64
+		{DABD9E83-DA6B-4885-8612-06208480CA3D}.Release|x64.Build.0 = Release|x64
+		{DABD9E83-DA6B-4885-8612-06208480CA3D}.Release|x86.ActiveCfg = Release|Win32
+		{DABD9E83-DA6B-4885-8612-06208480CA3D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50DCC448-63FA-43B0-9394-DC02A5843401}
+	EndGlobalSection
+EndGlobal

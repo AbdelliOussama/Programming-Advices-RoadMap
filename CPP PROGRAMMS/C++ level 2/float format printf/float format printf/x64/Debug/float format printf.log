@@ -1,0 +1,3 @@
+﻿  float format printf.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\C++ level 2\float format printf\float format printf\float format printf.cpp(6,11): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  float format printf.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\C++ level 2\float format printf\x64\Debug\float format printf.exe

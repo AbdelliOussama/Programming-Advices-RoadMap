@@ -1,0 +1,5 @@
+﻿  Read Date and format it.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 4\Read Date and format it\Read Date and format it\Read Date and format it.cpp(25,31): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 4\Read Date and format it\Read Date and format it\Read Date and format it.cpp(58,12): warning C4267: 'initialisation' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 4\Read Date and format it\Read Date and format it\Read Date and format it.cpp(62,16): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  Read Date and format it.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 4\Read Date and format it\x64\Debug\Read Date and format it.exe

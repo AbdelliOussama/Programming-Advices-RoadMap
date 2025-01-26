@@ -1,0 +1,20 @@
+﻿  ClsPeriode.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\ClsPeriode\ClsPeriode\clsString.h(39,25): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsPeriode.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\ClsPeriode\ClsPeriode\clsString.h(44,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsPeriode.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\ClsPeriode\ClsPeriode\clsString.h(56,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsPeriode.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\ClsPeriode\ClsPeriode\clsString.h(193,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsPeriode.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\ClsPeriode\ClsPeriode\clsString.h(324,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsPeriode.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\ClsPeriode\ClsPeriode\clsString.h(372,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsPeriode.cpp')
+  
+  ClsPeriode.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\ClsPeriode\x64\Debug\ClsPeriode.exe

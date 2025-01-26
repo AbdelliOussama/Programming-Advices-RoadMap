@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "problem 3 print rowsum in array", "problem 3 print rowsum in array\problem 3 print rowsum in array.vcxproj", "{1996F36E-D3CE-4B03-B5C8-D5599102B6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1996F36E-D3CE-4B03-B5C8-D5599102B6AE}.Debug|x64.ActiveCfg = Debug|x64
+		{1996F36E-D3CE-4B03-B5C8-D5599102B6AE}.Debug|x64.Build.0 = Debug|x64
+		{1996F36E-D3CE-4B03-B5C8-D5599102B6AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{1996F36E-D3CE-4B03-B5C8-D5599102B6AE}.Debug|x86.Build.0 = Debug|Win32
+		{1996F36E-D3CE-4B03-B5C8-D5599102B6AE}.Release|x64.ActiveCfg = Release|x64
+		{1996F36E-D3CE-4B03-B5C8-D5599102B6AE}.Release|x64.Build.0 = Release|x64
+		{1996F36E-D3CE-4B03-B5C8-D5599102B6AE}.Release|x86.ActiveCfg = Release|Win32
+		{1996F36E-D3CE-4B03-B5C8-D5599102B6AE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D779BC4D-5A4A-41B8-987B-406039309CA7}
+	EndGlobalSection
+EndGlobal

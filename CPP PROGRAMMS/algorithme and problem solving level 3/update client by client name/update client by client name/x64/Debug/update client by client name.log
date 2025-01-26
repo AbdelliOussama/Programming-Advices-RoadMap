@@ -1,0 +1,4 @@
+﻿  update client by client name.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\update client by client name\update client by client name\update client by client name.cpp(23,37): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\update client by client name\update client by client name\update client by client name.cpp(179): warning C4715: 'UpdateClientByAccountNumber' : les chemins de contrôle ne retournent pas tous une valeur
+  update client by client name.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\algorithme and problem solving level 3\update client by client name\x64\Debug\update client by client name.exe

@@ -1,0 +1,23 @@
+﻿  QueueLineProject.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ALgorithme Level 5\QueueLineProject\QueueLineProject\clsString.h(43,25): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'QueueLineProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ALgorithme Level 5\QueueLineProject\QueueLineProject\clsString.h(48,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'QueueLineProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ALgorithme Level 5\QueueLineProject\QueueLineProject\clsString.h(60,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'QueueLineProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ALgorithme Level 5\QueueLineProject\QueueLineProject\clsString.h(197,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'QueueLineProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ALgorithme Level 5\QueueLineProject\QueueLineProject\clsString.h(328,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'QueueLineProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ALgorithme Level 5\QueueLineProject\QueueLineProject\clsString.h(376,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'QueueLineProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ALgorithme Level 5\QueueLineProject\QueueLineProject\clsQueueLine.h(108,30): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'QueueLineProject.cpp')
+  
+  QueueLineProject.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ALgorithme Level 5\QueueLineProject\x64\Debug\QueueLineProject.exe

@@ -1,0 +1,44 @@
+﻿  Cls utile.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(39,25): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Cls%20utile.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(44,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Cls%20utile.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(56,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Cls%20utile.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(193,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Cls%20utile.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(324,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Cls%20utile.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(372,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'Cls%20utile.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsUtil.h(64,5): warning C4102: 'defualt' : étiquette non référencée
+  (compiler le fichier source 'Cls%20utile.cpp')
+  
+  ClsDate.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(39,25): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsDate.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(44,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsDate.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(56,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsDate.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(193,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsDate.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(324,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsDate.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsString.h(372,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'ClsDate.cpp')
+  
+  Génération de code en cours...
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\Cls utile\clsUtil.h(70): warning C4715: 'clsUtil::GetRandomCharacter' : les chemins de contrôle ne retournent pas tous une valeur
+  Cls utile.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Cls utile\x64\Debug\Cls utile.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "load file data to vector", "load file data to vector\load file data to vector.vcxproj", "{BB031D36-0544-4837-9D39-A29D3F3AC632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB031D36-0544-4837-9D39-A29D3F3AC632}.Debug|x64.ActiveCfg = Debug|x64
+		{BB031D36-0544-4837-9D39-A29D3F3AC632}.Debug|x64.Build.0 = Debug|x64
+		{BB031D36-0544-4837-9D39-A29D3F3AC632}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB031D36-0544-4837-9D39-A29D3F3AC632}.Debug|x86.Build.0 = Debug|Win32
+		{BB031D36-0544-4837-9D39-A29D3F3AC632}.Release|x64.ActiveCfg = Release|x64
+		{BB031D36-0544-4837-9D39-A29D3F3AC632}.Release|x64.Build.0 = Release|x64
+		{BB031D36-0544-4837-9D39-A29D3F3AC632}.Release|x86.ActiveCfg = Release|Win32
+		{BB031D36-0544-4837-9D39-A29D3F3AC632}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40263184-B63D-4204-B6F9-6AD27324387C}
+	EndGlobalSection
+EndGlobal

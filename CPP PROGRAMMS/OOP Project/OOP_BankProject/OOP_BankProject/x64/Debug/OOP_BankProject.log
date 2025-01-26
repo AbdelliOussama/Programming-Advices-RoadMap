@@ -1,0 +1,84 @@
+﻿  OOP_BankProject.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsString.h(43,25): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsString.h(48,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsString.h(60,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsString.h(197,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsString.h(328,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsString.h(376,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsUtil.h(64,5): warning C4102: 'defualt' : étiquette non référencée
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsUser.h(187,12): warning C4240: extension non standard utilisée : accès à 'clsUser::stLoginRegisterRecord' défini maintenant comme 'public', était précédemment défini comme 'private'
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsUser.h(24,12):
+  voir la déclaration de 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsInputValidate.h(115,16): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsInputValidate.h(119,26): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsBankClient.h(206,12): warning C4240: extension non standard utilisée : accès à 'clsBankClient::stTrnsferLogRecord' défini maintenant comme 'public', était précédemment défini comme 'private'
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsBankClient.h(152,12):
+  voir la déclaration de 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsBankClient.h(28,65): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsBankClient.h(162,39): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsBankClient.h(163,48): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsBankClient.h(164,49): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsBankClient.h(421,28): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsBankClient.h(434,32): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsAddNewClientScreen.h(30,66): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsUpdateClientScreen.h(47,66): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsTransferScreen.h(42,51): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsTransferScreen.h(47,53): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsCurrency.h(27,17): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsCurrencyCalculatorScreen.h(15,45): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'OOP_BankProject.cpp')
+  
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsUser.h(345,1): warning C4715: 'clsUser::Save' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\OOP_BankProject\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw' : les chemins de contrôle ne retournent pas tous une valeur
+  OOP_BankProject.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\OOP Project\OOP_BankProject\x64\Debug\OOP_BankProject.exe

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\OOP Project\\Revise 2d Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B58DDC-17DC-459D-91A9-7F7EA9476003}|Revise 2d Arrays\\Revise 2d Arrays.vcxproj|C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\OOP Project\\Revise 2d Arrays\\Revise 2d Arrays\\Revise 2d Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71B58DDC-17DC-459D-91A9-7F7EA9476003}|Revise 2d Arrays\\Revise 2d Arrays.vcxproj|solutionrelative:Revise 2d Arrays\\Revise 2d Arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Revise 2d Arrays.cpp",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\OOP Project\\Revise 2d Arrays\\Revise 2d Arrays\\Revise 2d Arrays.cpp",
+              "RelativeDocumentMoniker": "Revise 2d Arrays\\Revise 2d Arrays.cpp",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\OOP Project\\Revise 2d Arrays\\Revise 2d Arrays\\Revise 2d Arrays.cpp",
+              "RelativeToolTip": "Revise 2d Arrays\\Revise 2d Arrays.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T22:33:44.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

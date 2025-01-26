@@ -1,0 +1,7 @@
+﻿  Parametrized constructor of base class.cpp
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Parametrized constructor of base class\Parametrized constructor of base class\Parametrized constructor of base class.cpp(129,13): warning C4244: 'argument' : conversion de 'float' en 'const _Elem', perte possible de données
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Parametrized constructor of base class\Parametrized constructor of base class\Parametrized constructor of base class.cpp(129,13): warning C4244:         with
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Parametrized constructor of base class\Parametrized constructor of base class\Parametrized constructor of base class.cpp(129,13): warning C4244:         [
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Parametrized constructor of base class\Parametrized constructor of base class\Parametrized constructor of base class.cpp(129,13): warning C4244:             _Elem=char
+C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Parametrized constructor of base class\Parametrized constructor of base class\Parametrized constructor of base class.cpp(129,13): warning C4244:         ]
+  Parametrized constructor of base class.vcxproj -> C:\Users\oussa\OneDrive\Bureau\Self_learn\CPP PROGRAMMS\ObjectOrientedConcept\Parametrized constructor of base class\x64\Debug\Parametrized constructor of base class.exe

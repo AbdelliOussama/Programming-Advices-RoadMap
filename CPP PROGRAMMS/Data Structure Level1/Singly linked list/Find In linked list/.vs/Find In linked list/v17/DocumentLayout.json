@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\Data Structure Level1\\Singly linked list\\Find In linked list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC19A60-CDFA-4CF4-94C1-E171DD94C61F}|Find In linked list\\Find In linked list.vcxproj|C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\Data Structure Level1\\Singly linked list\\Find In linked list\\Find In linked list\\Find In linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DC19A60-CDFA-4CF4-94C1-E171DD94C61F}|Find In linked list\\Find In linked list.vcxproj|solutionrelative:Find In linked list\\Find In linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Find In linked list.cpp",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\Data Structure Level1\\Singly linked list\\Find In linked list\\Find In linked list\\Find In linked list.cpp",
+              "RelativeDocumentMoniker": "Find In linked list\\Find In linked list.cpp",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\CPP PROGRAMMS\\Data Structure Level1\\Singly linked list\\Find In linked list\\Find In linked list\\Find In linked list.cpp",
+              "RelativeToolTip": "Find In linked list\\Find In linked list.cpp",
+              "ViewState": "AQIAADsAAAAAAAAAAAAcwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T14:52:02.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

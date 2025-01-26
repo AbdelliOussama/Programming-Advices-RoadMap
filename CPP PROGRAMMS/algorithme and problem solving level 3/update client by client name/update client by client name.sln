@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "update client by client name", "update client by client name\update client by client name.vcxproj", "{B2083F36-AE3B-4806-B538-4C50148FB327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2083F36-AE3B-4806-B538-4C50148FB327}.Debug|x64.ActiveCfg = Debug|x64
+		{B2083F36-AE3B-4806-B538-4C50148FB327}.Debug|x64.Build.0 = Debug|x64
+		{B2083F36-AE3B-4806-B538-4C50148FB327}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2083F36-AE3B-4806-B538-4C50148FB327}.Debug|x86.Build.0 = Debug|Win32
+		{B2083F36-AE3B-4806-B538-4C50148FB327}.Release|x64.ActiveCfg = Release|x64
+		{B2083F36-AE3B-4806-B538-4C50148FB327}.Release|x64.Build.0 = Release|x64
+		{B2083F36-AE3B-4806-B538-4C50148FB327}.Release|x86.ActiveCfg = Release|Win32
+		{B2083F36-AE3B-4806-B538-4C50148FB327}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D66B535-7FF3-4E66-B594-242D13EFCB30}
+	EndGlobalSection
+EndGlobal
