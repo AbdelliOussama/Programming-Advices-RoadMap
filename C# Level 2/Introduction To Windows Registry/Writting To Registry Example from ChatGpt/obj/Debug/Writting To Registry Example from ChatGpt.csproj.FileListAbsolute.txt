@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Introduction To Windows Registry\Writting To Registry Example from ChatGpt\bin\Debug\Writting To Registry Example from ChatGpt.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Introduction To Windows Registry\Writting To Registry Example from ChatGpt\bin\Debug\Writting To Registry Example from ChatGpt.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Introduction To Windows Registry\Writting To Registry Example from ChatGpt\bin\Debug\Writting To Registry Example from ChatGpt.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Introduction To Windows Registry\Writting To Registry Example from ChatGpt\obj\Debug\Writting To Registry Example from ChatGpt.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Introduction To Windows Registry\Writting To Registry Example from ChatGpt\obj\Debug\Writting To Registry Example from ChatGpt.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Introduction To Windows Registry\Writting To Registry Example from ChatGpt\obj\Debug\Writting To Registry Example from ChatGpt.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Introduction To Windows Registry\Writting To Registry Example from ChatGpt\obj\Debug\Writting To Registry Example from ChatGpt.pdb

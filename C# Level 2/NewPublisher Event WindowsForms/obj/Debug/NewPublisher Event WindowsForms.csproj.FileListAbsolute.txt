@@ -1,0 +1,11 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\bin\Debug\NewPublisher Event WindowsForms.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\bin\Debug\NewPublisher Event WindowsForms.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\bin\Debug\NewPublisher Event WindowsForms.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\obj\Debug\NewPublisher Event WindowsForms.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\obj\Debug\NewPublisher_Event_WindowsForms.Form1.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\obj\Debug\NewPublisher_Event_WindowsForms.Properties.Resources.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\obj\Debug\NewPublisher Event WindowsForms.csproj.GenerateResource.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\obj\Debug\NewPublisher Event WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\obj\Debug\NewPublisher Event WindowsForms.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\obj\Debug\NewPublisher Event WindowsForms.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewPublisher Event WindowsForms\obj\Debug\NewPublisher_Event_WindowsForms.Form2.resources

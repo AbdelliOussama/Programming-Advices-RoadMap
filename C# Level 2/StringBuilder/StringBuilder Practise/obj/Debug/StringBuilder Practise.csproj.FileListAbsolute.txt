@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\StringBuilder\StringBuilder Practise\bin\Debug\StringBuilder Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\StringBuilder\StringBuilder Practise\bin\Debug\StringBuilder Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\StringBuilder\StringBuilder Practise\bin\Debug\StringBuilder Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\StringBuilder\StringBuilder Practise\obj\Debug\StringBuilder Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\StringBuilder\StringBuilder Practise\obj\Debug\StringBuilder Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\StringBuilder\StringBuilder Practise\obj\Debug\StringBuilder Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\StringBuilder\StringBuilder Practise\obj\Debug\StringBuilder Practise.pdb

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\c# level 2\\project pool table\\pool table my version\\frminputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|solutionrelative:frminputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\c# level 2\\project pool table\\pool table my version\\frminputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|solutionrelative:frminputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\c# level 2\\project pool table\\pool table my version\\poolarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|solutionrelative:poolarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\c# level 2\\project pool table\\pool table my version\\ctrlpooltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|solutionrelative:ctrlpooltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\c# level 2\\project pool table\\pool table my version\\ctrlpooltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|solutionrelative:ctrlpooltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\c# level 2\\project pool table\\pool table my version\\poolarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|solutionrelative:poolarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\c# level 2\\project pool table\\pool table my version\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\c# level 2\\project pool table\\pool table my version\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197F868F-F827-4CE3-8EF0-B90ECDB86508}|Pool Table My Version.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 72,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInputData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\frmInputData.cs",
+              "RelativeDocumentMoniker": "frmInputData.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\frmInputData.cs [Design]",
+              "RelativeToolTip": "frmInputData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:38:03.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PoolArea.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\PoolArea.cs",
+              "RelativeDocumentMoniker": "PoolArea.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\PoolArea.cs",
+              "RelativeToolTip": "PoolArea.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:19:25.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:12:52.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoolArea.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\PoolArea.cs",
+              "RelativeDocumentMoniker": "PoolArea.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\PoolArea.cs [Design]",
+              "RelativeToolTip": "PoolArea.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:08:57.126Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ctrlPoolTable.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\ctrlPoolTable.cs",
+              "RelativeDocumentMoniker": "ctrlPoolTable.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\ctrlPoolTable.cs",
+              "RelativeToolTip": "ctrlPoolTable.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:29:28.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInputData.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\frmInputData.cs",
+              "RelativeDocumentMoniker": "frmInputData.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\frmInputData.cs",
+              "RelativeToolTip": "frmInputData.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAnwCUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:44:23.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrlPoolTable.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\ctrlPoolTable.cs",
+              "RelativeDocumentMoniker": "ctrlPoolTable.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\ctrlPoolTable.cs [Design]",
+              "RelativeToolTip": "ctrlPoolTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:16:46.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\C# Level 2\\Project Pool Table\\Pool Table My Version\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:11:15.391Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

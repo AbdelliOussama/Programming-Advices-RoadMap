@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\bin\Debug\net8.0\Course20.Console.exe
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\bin\Debug\net8.0\Course20.Console.deps.json
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\bin\Debug\net8.0\Course20.Console.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\bin\Debug\net8.0\Course20.Console.dll
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\bin\Debug\net8.0\Course20.Console.pdb
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\obj\Debug\net8.0\Course20.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\obj\Debug\net8.0\Course20.Console.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\obj\Debug\net8.0\Course20.Console.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\obj\Debug\net8.0\Course20.Console.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\obj\Debug\net8.0\Course20.Console.dll
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\obj\Debug\net8.0\refint\Course20.Console.dll
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\obj\Debug\net8.0\Course20.Console.pdb
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\obj\Debug\net8.0\Course20.Console.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yesterday\Course20\Course20.Console\obj\Debug\net8.0\ref\Course20.Console.dll
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\bin\Debug\net8.0\Course20.Console.exe
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\bin\Debug\net8.0\Course20.Console.deps.json
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\bin\Debug\net8.0\Course20.Console.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\bin\Debug\net8.0\Course20.Console.dll
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\bin\Debug\net8.0\Course20.Console.pdb
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.dll
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\refint\Course20.Console.dll
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.pdb
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yesterday\Course20\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\ref\Course20.Console.dll
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\bin\Debug\net8.0\Course20.Console.exe
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\bin\Debug\net8.0\Course20.Console.deps.json
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\bin\Debug\net8.0\Course20.Console.runtimeconfig.json
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\bin\Debug\net8.0\Course20.Console.dll
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\bin\Debug\net8.0\Course20.Console.pdb
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.dll
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\refint\Course20.Console.dll
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.pdb
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\Course20.Console.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\020_Course20_C Sharp Programming Level 2\Course20.Console\obj\Debug\net8.0\ref\Course20.Console.dll

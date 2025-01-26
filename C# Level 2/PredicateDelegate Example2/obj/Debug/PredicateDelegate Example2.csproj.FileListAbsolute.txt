@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\PredicateDelegate Example2\bin\Debug\PredicateDelegate Example2.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\PredicateDelegate Example2\bin\Debug\PredicateDelegate Example2.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\PredicateDelegate Example2\bin\Debug\PredicateDelegate Example2.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\PredicateDelegate Example2\obj\Debug\PredicateDelegate Example2.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\PredicateDelegate Example2\obj\Debug\PredicateDelegate Example2.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\PredicateDelegate Example2\obj\Debug\PredicateDelegate Example2.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\PredicateDelegate Example2\obj\Debug\PredicateDelegate Example2.pdb

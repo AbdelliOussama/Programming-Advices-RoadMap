@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmployeeID>1</EmployeeID>
+  <Name>Oussama</Name>
+  <FirstName>Abdelli</FirstName>
+  <LastName>Ben Kmiti</LastName>
+  <Address>Mourouj1</Address>
+  <City>Ben Arous</City>
+  <Region>Tunisia</Region>
+  <PostalCode>2074</PostalCode>
+  <Country>Tunisia</Country>
+  <Phone>93921970</Phone>
+  <Fax>Fax1</Fax>
+  <FaxNumber>FaxNumber1</FaxNumber>
+</Employee>

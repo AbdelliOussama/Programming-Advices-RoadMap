@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Serialization & Deserialization\Serializer Practise\bin\Debug\Serializer Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Serialization & Deserialization\Serializer Practise\bin\Debug\Serializer Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Serialization & Deserialization\Serializer Practise\bin\Debug\Serializer Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Serialization & Deserialization\Serializer Practise\obj\Debug\Serializer Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Serialization & Deserialization\Serializer Practise\obj\Debug\Serializer Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Serialization & Deserialization\Serializer Practise\obj\Debug\Serializer Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Serialization & Deserialization\Serializer Practise\obj\Debug\Serializer Practise.pdb

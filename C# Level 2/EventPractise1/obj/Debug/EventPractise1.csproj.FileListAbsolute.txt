@@ -1,0 +1,11 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\bin\Debug\EventPractise1.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\bin\Debug\EventPractise1.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\bin\Debug\EventPractise1.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\obj\Debug\EventPractise1.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\obj\Debug\EventPractise1.ctrlSimpleCalculator.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\obj\Debug\EventPractise1.Properties.Resources.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\obj\Debug\EventPractise1.csproj.GenerateResource.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\obj\Debug\EventPractise1.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\obj\Debug\EventPractise1.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\obj\Debug\EventPractise1.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventPractise1\obj\Debug\EventPractise1.Form1.resources

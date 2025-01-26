@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\FuncDelegate More Practise\bin\Debug\FuncDelegate More Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\FuncDelegate More Practise\bin\Debug\FuncDelegate More Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\FuncDelegate More Practise\bin\Debug\FuncDelegate More Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\FuncDelegate More Practise\obj\Debug\FuncDelegate More Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\FuncDelegate More Practise\obj\Debug\FuncDelegate More Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\FuncDelegate More Practise\obj\Debug\FuncDelegate More Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\FuncDelegate More Practise\obj\Debug\FuncDelegate More Practise.pdb

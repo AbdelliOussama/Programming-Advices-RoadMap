@@ -1,0 +1,11 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\bin\Debug\Trafic Light My Version.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\bin\Debug\Trafic Light My Version.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\bin\Debug\Trafic Light My Version.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\obj\Debug\Trafic Light My Version.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\obj\Debug\Trafic_Light_My_Version.ctrlTraficLight.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\obj\Debug\Trafic_Light_My_Version.Form1.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\obj\Debug\Trafic_Light_My_Version.Properties.Resources.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\obj\Debug\Trafic Light My Version.csproj.GenerateResource.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\obj\Debug\Trafic Light My Version.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\obj\Debug\Trafic Light My Version.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Trafic Light\Trafic Light My Version\obj\Debug\Trafic Light My Version.pdb

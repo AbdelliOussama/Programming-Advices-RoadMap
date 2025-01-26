@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Reflection\ReflectionPractise\bin\Debug\ReflectionPractise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Reflection\ReflectionPractise\bin\Debug\ReflectionPractise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Reflection\ReflectionPractise\bin\Debug\ReflectionPractise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Reflection\ReflectionPractise\obj\Debug\ReflectionPractise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Reflection\ReflectionPractise\obj\Debug\ReflectionPractise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Reflection\ReflectionPractise\obj\Debug\ReflectionPractise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Reflection\ReflectionPractise\obj\Debug\ReflectionPractise.pdb

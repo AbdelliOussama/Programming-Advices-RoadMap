@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Events\MakeSimpleEvent_01\FrmMakeSimpleEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Events\NewOrderEvent_05\Forms\FrmOrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Events\NewOrderEvent_05\Forms\FrmShoppingMarketHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Events\NewsPublisher_04\Forms\Publisher\FrmPublisherArticlesList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Events\NewsPublisher_04\Forms\Publisher\FrmCreateArticle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Events\NewsPublisher_04\Forms\FrmArticlesPublisherHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Events\NewsPublisher_04\Forms\FrmSubscriber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Events\SimpleEventWithParametersUsingArguments_02\CtrlSimpleCalc2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Events\SimpleEventWithParametersUsingArguments_02\FrmSimpleCalc2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Events\TemperatureChangeEventExample_03\FrmThermostat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MoreAboutUserControls\PoolClubProject_02\CtrlPoolTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MoreAboutUserControls\PoolClubProject_02\FrmPoolClub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MoreAboutUserControls\PoolClubProject_02\FrmReadPoolTableInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MoreAboutUserControls\TraficLightProject_01\MyTrafficLight_01\FrmMyTrafficLight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MoreAboutUserControls\TraficLightProject_01\MyTrafficLight_01\CtrlMyTrafficLight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SendDataBetweenForms\SendDataFromForm2ToForm1UsingTheDelegate\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SendDataBetweenForms\SendDataFromForm2ToForm1UsingTheDelegate\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SendDataBetweenForms\SendDataFromForm2ToForm1WithoutDelegate\Frm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SendDataBetweenForms\SendDataFromForm2ToForm1WithoutDelegate\Frm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MoreAboutUserControls\TraficLightProject_01\TrafficLightGame_02\CtrlTraficLight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MoreAboutUserControls\TraficLightProject_01\TrafficLightGame_02\FrmStreet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MoreAboutUserControls\TraficLightProject_01\TrafficLightGame_02\FrmTrafficViolation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlsExposeProperty\CtrlSimpleCalc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlsExposeProperty\FrmSimpleCalc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

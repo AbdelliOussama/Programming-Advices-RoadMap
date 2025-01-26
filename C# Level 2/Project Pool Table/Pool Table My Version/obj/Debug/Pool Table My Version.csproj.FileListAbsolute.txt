@@ -1,0 +1,13 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\bin\Debug\Pool Table My Version.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\bin\Debug\Pool Table My Version.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\bin\Debug\Pool Table My Version.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\obj\Debug\Pool Table My Version.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\obj\Debug\Pool_Table_My_Version.ctrlPoolTable.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\obj\Debug\Pool_Table_My_Version.Properties.Resources.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\obj\Debug\Pool Table My Version.csproj.GenerateResource.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\obj\Debug\Pool Table My Version.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\obj\Debug\Pool Table My Version.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\obj\Debug\Pool Table My Version.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\obj\Debug\Pool_Table_My_Version.MainForm.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\obj\Debug\Pool_Table_My_Version.frmPoolArea.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Project Pool Table\Pool Table My Version\obj\Debug\Pool_Table_My_Version.frmInputData.resources

@@ -1,0 +1,15 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\NewsPublisher\bin\Debug\NewsPublisher.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\NewsPublisher\bin\Debug\NewsPublisher.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\NewsPublisher\bin\Debug\NewsPublisher.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\NewsPublisher\obj\Debug\NewsPublisher.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\NewsPublisher\obj\Debug\NewsPublisher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\NewsPublisher\obj\Debug\NewsPublisher.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\NewsPublisher\obj\Debug\NewsPublisher.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\NewsPublisher\obj\Debug\NewsPublisher.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 News Publisher Subscriber Example\Project\News Publisher Subscriber Example\bin\Debug\NewsPublisher.exe.config
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 News Publisher Subscriber Example\Project\News Publisher Subscriber Example\bin\Debug\NewsPublisher.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 News Publisher Subscriber Example\Project\News Publisher Subscriber Example\bin\Debug\NewsPublisher.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 News Publisher Subscriber Example\Project\News Publisher Subscriber Example\obj\Debug\NewsPublisher.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 News Publisher Subscriber Example\Project\News Publisher Subscriber Example\obj\Debug\NewsPublisher.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 News Publisher Subscriber Example\Project\News Publisher Subscriber Example\obj\Debug\NewsPublisher.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\20 C# Level2\05 Events\04 News Publisher Subscriber Example\Project\News Publisher Subscriber Example\obj\Debug\NewsPublisher.pdb

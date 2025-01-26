@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Calculator Using Delegate\bin\Debug\Calculator Using Delegate.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Calculator Using Delegate\bin\Debug\Calculator Using Delegate.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Calculator Using Delegate\bin\Debug\Calculator Using Delegate.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Calculator Using Delegate\obj\Debug\Calculator Using Delegate.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Calculator Using Delegate\obj\Debug\Calculator Using Delegate.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Calculator Using Delegate\obj\Debug\Calculator Using Delegate.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Calculator Using Delegate\obj\Debug\Calculator Using Delegate.pdb

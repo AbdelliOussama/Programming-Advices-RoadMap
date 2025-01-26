@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewsPublisherEventExample My Version\bin\Debug\NewsPublisherEventExample My Version.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewsPublisherEventExample My Version\bin\Debug\NewsPublisherEventExample My Version.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewsPublisherEventExample My Version\bin\Debug\NewsPublisherEventExample My Version.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewsPublisherEventExample My Version\obj\Debug\NewsPublisherEventExample My Version.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewsPublisherEventExample My Version\obj\Debug\NewsPublisherEventExample My Version.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewsPublisherEventExample My Version\obj\Debug\NewsPublisherEventExample My Version.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\NewsPublisherEventExample My Version\obj\Debug\NewsPublisherEventExample My Version.pdb

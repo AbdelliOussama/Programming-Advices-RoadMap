@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Athlete xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Oussama</Name>
+  <Age>25</Age>
+  <DateOfBirth>0001-01-01T00:00:00</DateOfBirth>
+  <Wheight>63.5</Wheight>
+  <History>3 Time Vise Champion of Tunisia</History>
+</Athlete>

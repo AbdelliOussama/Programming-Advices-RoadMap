@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderEvent Practise", "OrderEvent Practise.csproj", "{522CBF1D-A07E-4A07-9539-04C5008A97EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522CBF1D-A07E-4A07-9539-04C5008A97EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522CBF1D-A07E-4A07-9539-04C5008A97EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522CBF1D-A07E-4A07-9539-04C5008A97EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522CBF1D-A07E-4A07-9539-04C5008A97EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8972B1A7-6CDD-471D-8CDC-FE43F0A435AD}
+	EndGlobalSection
+EndGlobal

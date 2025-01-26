@@ -1,0 +1,11 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\bin\Debug\EventWithParamUsingArgsPractise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\bin\Debug\EventWithParamUsingArgsPractise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\bin\Debug\EventWithParamUsingArgsPractise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\obj\Debug\EventWithParamUsingArgsPractise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\obj\Debug\EventWithParamUsingArgsPractise.ctrlSimpleCalculator.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\obj\Debug\EventWithParamUsingArgsPractise.Form1.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\obj\Debug\EventWithParamUsingArgsPractise.Properties.Resources.resources
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\obj\Debug\EventWithParamUsingArgsPractise.csproj.GenerateResource.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\obj\Debug\EventWithParamUsingArgsPractise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\obj\Debug\EventWithParamUsingArgsPractise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\EventWithParamUsingArgsPractise\obj\Debug\EventWithParamUsingArgsPractise.pdb

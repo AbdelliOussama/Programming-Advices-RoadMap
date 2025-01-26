@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Asynchronous Pragramming\TaskRun Practise\bin\Debug\TaskRun Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Asynchronous Pragramming\TaskRun Practise\bin\Debug\TaskRun Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Asynchronous Pragramming\TaskRun Practise\bin\Debug\TaskRun Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Asynchronous Pragramming\TaskRun Practise\obj\Debug\TaskRun Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Asynchronous Pragramming\TaskRun Practise\obj\Debug\TaskRun Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Asynchronous Pragramming\TaskRun Practise\obj\Debug\TaskRun Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\C# Level 2\Asynchronous Pragramming\TaskRun Practise\obj\Debug\TaskRun Practise.pdb
