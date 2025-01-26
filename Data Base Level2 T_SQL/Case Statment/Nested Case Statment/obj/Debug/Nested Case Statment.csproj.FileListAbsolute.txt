@@ -1,0 +1,10 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\Nested Case Statment\bin\Debug\Nested Case Statment.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\Nested Case Statment\bin\Debug\Nested Case Statment.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\Nested Case Statment\bin\Debug\Nested Case Statment.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\Nested Case Statment\bin\Debug\EmpDataAccess.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\Nested Case Statment\bin\Debug\EmpDataAccess.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\Nested Case Statment\obj\Debug\Nested Case Statment.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\Nested Case Statment\obj\Debug\Nested Case Statment.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\Nested Case Statment\obj\Debug\Nested C.2C7E974D.Up2Date
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\Nested Case Statment\obj\Debug\Nested Case Statment.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\Nested Case Statment\obj\Debug\Nested Case Statment.pdb

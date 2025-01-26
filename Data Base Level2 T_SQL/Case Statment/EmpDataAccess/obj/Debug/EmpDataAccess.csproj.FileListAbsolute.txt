@@ -1,0 +1,6 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\EmpDataAccess\bin\Debug\EmpDataAccess.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\EmpDataAccess\bin\Debug\EmpDataAccess.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\EmpDataAccess\obj\Debug\EmpDataAccess.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\EmpDataAccess\obj\Debug\EmpDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\EmpDataAccess\obj\Debug\EmpDataAccess.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Base Level2 T_SQL\Case Statment\EmpDataAccess\obj\Debug\EmpDataAccess.pdb

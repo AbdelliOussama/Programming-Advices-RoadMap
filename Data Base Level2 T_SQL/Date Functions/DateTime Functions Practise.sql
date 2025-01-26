@@ -1,0 +1,11 @@
+SELECT GETDATE() AS CurrentDateTime;
+SELECT DATEADD(DAY, 7, GETDATE()) AS DateAfterAWeek;
+
+
+SELECT DATEDIFF(DAY, '2024-01-01', '2024-12-31') AS DaysBetweenDates;
+
+SELECT DATEPART(YEAR, GETDATE()) AS CurrentYear,
+       DATEPART(MONTH, GETDATE()) AS CurrentMonth,
+       DATEPART(DAY, GETDATE()) AS CurrentDay;
+
+
