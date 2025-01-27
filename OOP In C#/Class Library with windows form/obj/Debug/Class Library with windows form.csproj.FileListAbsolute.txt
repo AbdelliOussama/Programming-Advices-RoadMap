@@ -1,0 +1,13 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\bin\Debug\Class Library with windows form.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\bin\Debug\Class Library with windows form.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\bin\Debug\Class Library with windows form.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\bin\Debug\MyFirstClassLibrary.dll
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\bin\Debug\MyFirstClassLibrary.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\obj\Debug\Class Library with windows form.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\obj\Debug\Class_Library_with_windows_form.Form1.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\obj\Debug\Class_Library_with_windows_form.Properties.Resources.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\obj\Debug\Class Library with windows form.csproj.GenerateResource.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\obj\Debug\Class Library with windows form.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\obj\Debug\Class Li.E5458F71.Up2Date
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\obj\Debug\Class Library with windows form.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Library with windows form\obj\Debug\Class Library with windows form.pdb

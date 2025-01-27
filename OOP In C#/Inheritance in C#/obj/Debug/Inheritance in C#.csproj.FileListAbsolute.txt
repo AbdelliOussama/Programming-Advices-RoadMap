@@ -1,0 +1,7 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Inheritance in C#\bin\Debug\Inheritance in C#.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Inheritance in C#\bin\Debug\Inheritance in C#.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Inheritance in C#\bin\Debug\Inheritance in C#.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Inheritance in C#\obj\Debug\Inheritance in C#.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Inheritance in C#\obj\Debug\Inheritance in C#.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Inheritance in C#\obj\Debug\Inheritance in C#.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Inheritance in C#\obj\Debug\Inheritance in C#.pdb

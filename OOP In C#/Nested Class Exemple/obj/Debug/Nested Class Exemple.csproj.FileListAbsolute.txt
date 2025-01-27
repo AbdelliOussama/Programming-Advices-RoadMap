@@ -1,0 +1,7 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Nested Class Exemple\bin\Debug\Nested Class Exemple.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Nested Class Exemple\bin\Debug\Nested Class Exemple.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Nested Class Exemple\bin\Debug\Nested Class Exemple.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Nested Class Exemple\obj\Debug\Nested Class Exemple.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Nested Class Exemple\obj\Debug\Nested Class Exemple.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Nested Class Exemple\obj\Debug\Nested Class Exemple.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Nested Class Exemple\obj\Debug\Nested Class Exemple.pdb

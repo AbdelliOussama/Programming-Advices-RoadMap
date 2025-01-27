@@ -1,0 +1,10 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\DotNet  Class Library\bin\Debug\DotNet  Class Library.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\DotNet  Class Library\bin\Debug\DotNet  Class Library.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\DotNet  Class Library\bin\Debug\DotNet  Class Library.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\DotNet  Class Library\bin\Debug\MyFirstClassLibrary.dll
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\DotNet  Class Library\bin\Debug\MyFirstClassLibrary.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\DotNet  Class Library\obj\Debug\DotNet  Class Library.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\DotNet  Class Library\obj\Debug\DotNet  Class Library.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\DotNet  Class Library\obj\Debug\DotNet  .DB0D0C84.Up2Date
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\DotNet  Class Library\obj\Debug\DotNet  Class Library.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\DotNet  Class Library\obj\Debug\DotNet  Class Library.pdb

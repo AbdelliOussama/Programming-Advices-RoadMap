@@ -1,0 +1,7 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\StaticProperties static Class\bin\Debug\StaticProperties static Class.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\StaticProperties static Class\bin\Debug\StaticProperties static Class.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\StaticProperties static Class\bin\Debug\StaticProperties static Class.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\StaticProperties static Class\obj\Debug\StaticProperties static Class.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\StaticProperties static Class\obj\Debug\StaticProperties static Class.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\StaticProperties static Class\obj\Debug\StaticProperties static Class.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\StaticProperties static Class\obj\Debug\StaticProperties static Class.pdb

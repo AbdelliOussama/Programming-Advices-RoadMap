@@ -1,0 +1,7 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\RealLife Application By suing Static and Constructor\bin\Debug\RealLife Application By suing Static and Constructor.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\RealLife Application By suing Static and Constructor\bin\Debug\RealLife Application By suing Static and Constructor.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\RealLife Application By suing Static and Constructor\bin\Debug\RealLife Application By suing Static and Constructor.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\RealLife Application By suing Static and Constructor\obj\Debug\RealLife Application By suing Static and Constructor.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\RealLife Application By suing Static and Constructor\obj\Debug\RealLife Application By suing Static and Constructor.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\RealLife Application By suing Static and Constructor\obj\Debug\RealLife Application By suing Static and Constructor.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\RealLife Application By suing Static and Constructor\obj\Debug\RealLife Application By suing Static and Constructor.pdb

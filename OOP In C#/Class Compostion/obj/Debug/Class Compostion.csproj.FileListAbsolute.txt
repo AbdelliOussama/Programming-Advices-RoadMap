@@ -1,0 +1,7 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Compostion\bin\Debug\Class Compostion.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Compostion\bin\Debug\Class Compostion.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Compostion\bin\Debug\Class Compostion.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Compostion\obj\Debug\Class Compostion.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Compostion\obj\Debug\Class Compostion.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Compostion\obj\Debug\Class Compostion.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\OOP In C#\Class Compostion\obj\Debug\Class Compostion.pdb
