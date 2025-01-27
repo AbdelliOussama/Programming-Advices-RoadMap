@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Tasks To Practise\bin\Debug\Tasks To Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Tasks To Practise\bin\Debug\Tasks To Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Tasks To Practise\bin\Debug\Tasks To Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Tasks To Practise\obj\Debug\Tasks To Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Tasks To Practise\obj\Debug\Tasks To Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Tasks To Practise\obj\Debug\Tasks To Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Tasks To Practise\obj\Debug\Tasks To Practise.pdb

@@ -1,0 +1,28 @@
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\bin\Debug\net8.0\MaxHeap - Implementation.exe
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\bin\Debug\net8.0\MaxHeap - Implementation.deps.json
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\bin\Debug\net8.0\MaxHeap - Implementation.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\bin\Debug\net8.0\MaxHeap - Implementation.dll
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\bin\Debug\net8.0\MaxHeap - Implementation.pdb
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.dll
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\obj\Debug\net8.0\refint\MaxHeap - Implementation.dll
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.pdb
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\23 Heap DS\02 Operations\04 Max Heap\MaxHeap - Implementation\obj\Debug\net8.0\ref\MaxHeap - Implementation.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\bin\Debug\net8.0\MaxHeap - Implementation.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\bin\Debug\net8.0\MaxHeap - Implementation.deps.json
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\bin\Debug\net8.0\MaxHeap - Implementation.runtimeconfig.json
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\bin\Debug\net8.0\MaxHeap - Implementation.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\bin\Debug\net8.0\MaxHeap - Implementation.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.AssemblyInfoInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.AssemblyInfo.cs
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\obj\Debug\net8.0\refint\MaxHeap - Implementation.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\obj\Debug\net8.0\MaxHeap - Implementation.genruntimeconfig.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Heap Data Structure\MaxHeap - Implementation\MaxHeap - Implementation\obj\Debug\net8.0\ref\MaxHeap - Implementation.dll

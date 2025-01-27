@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Data Structure Level 2\\Graph Data Structure\\GraphImplementation-Matrix\\FlightRoot Simulation From ChatGpt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E5476D-6B46-48F6-A325-F7015B23100F}|FlightRoot Simulation From ChatGpt.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\data structure level 2\\graph data structure\\graphimplementation-matrix\\flightroot simulation from chatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E5476D-6B46-48F6-A325-F7015B23100F}|FlightRoot Simulation From ChatGpt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Data Structure Level 2\\Graph Data Structure\\GraphImplementation-Matrix\\FlightRoot Simulation From ChatGpt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Data Structure Level 2\\Graph Data Structure\\GraphImplementation-Matrix\\FlightRoot Simulation From ChatGpt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:12:51.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

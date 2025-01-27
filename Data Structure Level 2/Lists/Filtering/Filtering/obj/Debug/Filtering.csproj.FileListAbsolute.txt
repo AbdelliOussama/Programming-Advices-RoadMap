@@ -1,0 +1,23 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\23 DataStructures Level 2\Lists\04 Filtering Data with LINQ in C# Using List\Filtering\bin\Debug\Filtering.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\23 DataStructures Level 2\Lists\04 Filtering Data with LINQ in C# Using List\Filtering\bin\Debug\Filtering.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\23 DataStructures Level 2\Lists\04 Filtering Data with LINQ in C# Using List\Filtering\bin\Debug\Filtering.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\23 DataStructures Level 2\Lists\04 Filtering Data with LINQ in C# Using List\Filtering\obj\Debug\Filtering.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\23 DataStructures Level 2\Lists\04 Filtering Data with LINQ in C# Using List\Filtering\obj\Debug\Filtering.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\23 DataStructures Level 2\Lists\04 Filtering Data with LINQ in C# Using List\Filtering\obj\Debug\Filtering.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\23 DataStructures Level 2\Lists\04 Filtering Data with LINQ in C# Using List\Filtering\obj\Debug\Filtering.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\23 DataStructures Level 2\Lists\04 Filtering Data with LINQ in C# Using List\Filtering\obj\Debug\Filtering.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\03 Lists\04 Filtering Data with LINQ in C# Using List\Filtering\bin\Debug\Filtering.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\03 Lists\04 Filtering Data with LINQ in C# Using List\Filtering\bin\Debug\Filtering.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\03 Lists\04 Filtering Data with LINQ in C# Using List\Filtering\bin\Debug\Filtering.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\03 Lists\04 Filtering Data with LINQ in C# Using List\Filtering\obj\Debug\Filtering.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\03 Lists\04 Filtering Data with LINQ in C# Using List\Filtering\obj\Debug\Filtering.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\03 Lists\04 Filtering Data with LINQ in C# Using List\Filtering\obj\Debug\Filtering.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\03 Lists\04 Filtering Data with LINQ in C# Using List\Filtering\obj\Debug\Filtering.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\03 Lists\04 Filtering Data with LINQ in C# Using List\Filtering\obj\Debug\Filtering.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Filtering\Filtering\bin\Debug\Filtering.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Filtering\Filtering\bin\Debug\Filtering.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Filtering\Filtering\bin\Debug\Filtering.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Filtering\Filtering\obj\Debug\Filtering.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Filtering\Filtering\obj\Debug\Filtering.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Filtering\Filtering\obj\Debug\Filtering.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Lists\Filtering\Filtering\obj\Debug\Filtering.pdb

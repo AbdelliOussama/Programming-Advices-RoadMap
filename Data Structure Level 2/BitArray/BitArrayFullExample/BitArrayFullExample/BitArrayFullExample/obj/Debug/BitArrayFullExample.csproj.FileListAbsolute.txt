@@ -1,0 +1,14 @@
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\12 BitArray\02 Working With Bit Array\BitArrayFullExample\BitArrayFullExample\bin\Debug\BitArrayFullExample.exe.config
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\12 BitArray\02 Working With Bit Array\BitArrayFullExample\BitArrayFullExample\bin\Debug\BitArrayFullExample.exe
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\12 BitArray\02 Working With Bit Array\BitArrayFullExample\BitArrayFullExample\bin\Debug\BitArrayFullExample.pdb
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\12 BitArray\02 Working With Bit Array\BitArrayFullExample\BitArrayFullExample\obj\Debug\BitArrayFullExample.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\12 BitArray\02 Working With Bit Array\BitArrayFullExample\BitArrayFullExample\obj\Debug\BitArrayFullExample.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\12 BitArray\02 Working With Bit Array\BitArrayFullExample\BitArrayFullExample\obj\Debug\BitArrayFullExample.exe
+D:\Dropbox\Personal\Advices\2021\22 DataStructures Level 2\12 BitArray\02 Working With Bit Array\BitArrayFullExample\BitArrayFullExample\obj\Debug\BitArrayFullExample.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\BitArray\BitArrayFullExample\BitArrayFullExample\BitArrayFullExample\bin\Debug\BitArrayFullExample.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\BitArray\BitArrayFullExample\BitArrayFullExample\BitArrayFullExample\bin\Debug\BitArrayFullExample.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\BitArray\BitArrayFullExample\BitArrayFullExample\BitArrayFullExample\bin\Debug\BitArrayFullExample.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\BitArray\BitArrayFullExample\BitArrayFullExample\BitArrayFullExample\obj\Debug\BitArrayFullExample.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\BitArray\BitArrayFullExample\BitArrayFullExample\BitArrayFullExample\obj\Debug\BitArrayFullExample.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\BitArray\BitArrayFullExample\BitArrayFullExample\BitArrayFullExample\obj\Debug\BitArrayFullExample.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\BitArray\BitArrayFullExample\BitArrayFullExample\BitArrayFullExample\obj\Debug\BitArrayFullExample.pdb

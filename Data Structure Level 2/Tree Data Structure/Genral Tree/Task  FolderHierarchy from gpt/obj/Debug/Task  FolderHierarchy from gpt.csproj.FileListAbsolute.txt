@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\Task  FolderHierarchy from gpt\bin\Debug\Task  FolderHierarchy from gpt.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\Task  FolderHierarchy from gpt\bin\Debug\Task  FolderHierarchy from gpt.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\Task  FolderHierarchy from gpt\bin\Debug\Task  FolderHierarchy from gpt.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\Task  FolderHierarchy from gpt\obj\Debug\Task  FolderHierarchy from gpt.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\Task  FolderHierarchy from gpt\obj\Debug\Task  FolderHierarchy from gpt.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\Task  FolderHierarchy from gpt\obj\Debug\Task  FolderHierarchy from gpt.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\Task  FolderHierarchy from gpt\obj\Debug\Task  FolderHierarchy from gpt.pdb

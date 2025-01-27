@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Graph Data Structure\GraphImplementation-Matrix\SocialNetwork Graph Practise\bin\Debug\SocialNetwork Graph Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Graph Data Structure\GraphImplementation-Matrix\SocialNetwork Graph Practise\bin\Debug\SocialNetwork Graph Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Graph Data Structure\GraphImplementation-Matrix\SocialNetwork Graph Practise\bin\Debug\SocialNetwork Graph Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Graph Data Structure\GraphImplementation-Matrix\SocialNetwork Graph Practise\obj\Debug\SocialNetwork Graph Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Graph Data Structure\GraphImplementation-Matrix\SocialNetwork Graph Practise\obj\Debug\SocialNetwork Graph Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Graph Data Structure\GraphImplementation-Matrix\SocialNetwork Graph Practise\obj\Debug\SocialNetwork Graph Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Graph Data Structure\GraphImplementation-Matrix\SocialNetwork Graph Practise\obj\Debug\SocialNetwork Graph Practise.pdb

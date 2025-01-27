@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\EmployeeHierarchy Managment From CHATGPT\bin\Debug\EmployeeHierarchy Managment From CHATGPT.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\EmployeeHierarchy Managment From CHATGPT\bin\Debug\EmployeeHierarchy Managment From CHATGPT.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\EmployeeHierarchy Managment From CHATGPT\bin\Debug\EmployeeHierarchy Managment From CHATGPT.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\EmployeeHierarchy Managment From CHATGPT\obj\Debug\EmployeeHierarchy Managment From CHATGPT.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\EmployeeHierarchy Managment From CHATGPT\obj\Debug\EmployeeHierarchy Managment From CHATGPT.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\EmployeeHierarchy Managment From CHATGPT\obj\Debug\EmployeeHierarchy Managment From CHATGPT.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\EmployeeHierarchy Managment From CHATGPT\obj\Debug\EmployeeHierarchy Managment From CHATGPT.pdb

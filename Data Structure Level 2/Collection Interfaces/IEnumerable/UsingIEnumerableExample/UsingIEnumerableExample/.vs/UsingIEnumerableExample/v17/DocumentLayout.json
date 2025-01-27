@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Data Structure Level 2\\Collection Interfaces\\IEnumerable\\UsingIEnumerableExample\\UsingIEnumerableExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFFBD86-B30D-41B7-844A-87D3C44B3007}|UsingIEnumerableExample\\UsingIEnumerableExample.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\data structure level 2\\collection interfaces\\ienumerable\\usingienumerableexample\\usingienumerableexample\\usingienumerableexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFFBD86-B30D-41B7-844A-87D3C44B3007}|UsingIEnumerableExample\\UsingIEnumerableExample.csproj|solutionrelative:usingienumerableexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Data Structure Level 2\\Collection Interfaces\\IEnumerable\\UsingIEnumerableExample\\UsingIEnumerableExample\\UsingIEnumerableExample\\Program.cs",
+              "RelativeDocumentMoniker": "UsingIEnumerableExample\\Program.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Data Structure Level 2\\Collection Interfaces\\IEnumerable\\UsingIEnumerableExample\\UsingIEnumerableExample\\UsingIEnumerableExample\\Program.cs",
+              "RelativeToolTip": "UsingIEnumerableExample\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:54:56.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

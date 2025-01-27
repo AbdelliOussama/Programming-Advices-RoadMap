@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\SortedList\SortedList Practise\bin\Debug\SortedList Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\SortedList\SortedList Practise\bin\Debug\SortedList Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\SortedList\SortedList Practise\bin\Debug\SortedList Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\SortedList\SortedList Practise\obj\Debug\SortedList Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\SortedList\SortedList Practise\obj\Debug\SortedList Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\SortedList\SortedList Practise\obj\Debug\SortedList Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\SortedList\SortedList Practise\obj\Debug\SortedList Practise.pdb

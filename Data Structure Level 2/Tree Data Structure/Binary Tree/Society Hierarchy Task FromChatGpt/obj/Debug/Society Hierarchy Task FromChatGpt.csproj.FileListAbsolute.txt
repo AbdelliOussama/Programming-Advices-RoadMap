@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\Society Hierarchy Task FromChatGpt\bin\Debug\Society Hierarchy Task FromChatGpt.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\Society Hierarchy Task FromChatGpt\bin\Debug\Society Hierarchy Task FromChatGpt.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\Society Hierarchy Task FromChatGpt\bin\Debug\Society Hierarchy Task FromChatGpt.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\Society Hierarchy Task FromChatGpt\obj\Debug\Society Hierarchy Task FromChatGpt.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\Society Hierarchy Task FromChatGpt\obj\Debug\Society Hierarchy Task FromChatGpt.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\Society Hierarchy Task FromChatGpt\obj\Debug\Society Hierarchy Task FromChatGpt.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Binary Tree\Society Hierarchy Task FromChatGpt\obj\Debug\Society Hierarchy Task FromChatGpt.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Data Structure Level 2\\SortedDictionnary\\Example1\\Example1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{176377E7-CF10-401E-9EE4-1A5512DEB000}|Example1\\Example1.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\data structure level 2\\sorteddictionnary\\example1\\example1\\example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176377E7-CF10-401E-9EE4-1A5512DEB000}|Example1\\Example1.csproj|solutionrelative:example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Data Structure Level 2\\SortedDictionnary\\Example1\\Example1\\Example1\\Program.cs",
+              "RelativeDocumentMoniker": "Example1\\Program.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Data Structure Level 2\\SortedDictionnary\\Example1\\Example1\\Example1\\Program.cs",
+              "RelativeToolTip": "Example1\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:39:10.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

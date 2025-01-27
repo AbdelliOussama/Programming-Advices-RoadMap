@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Dictionaries\Dictionaries Practise\bin\Debug\Dictionaries Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Dictionaries\Dictionaries Practise\bin\Debug\Dictionaries Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Dictionaries\Dictionaries Practise\bin\Debug\Dictionaries Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Dictionaries\Dictionaries Practise\obj\Debug\Dictionaries Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Dictionaries\Dictionaries Practise\obj\Debug\Dictionaries Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Dictionaries\Dictionaries Practise\obj\Debug\Dictionaries Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Dictionaries\Dictionaries Practise\obj\Debug\Dictionaries Practise.pdb

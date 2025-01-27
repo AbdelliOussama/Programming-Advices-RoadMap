@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Observable Collection\ObservableCollection Tasks\bin\Debug\ObservableCollection Tasks.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Observable Collection\ObservableCollection Tasks\bin\Debug\ObservableCollection Tasks.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Observable Collection\ObservableCollection Tasks\bin\Debug\ObservableCollection Tasks.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Observable Collection\ObservableCollection Tasks\obj\Debug\ObservableCollection Tasks.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Observable Collection\ObservableCollection Tasks\obj\Debug\ObservableCollection Tasks.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Observable Collection\ObservableCollection Tasks\obj\Debug\ObservableCollection Tasks.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Observable Collection\ObservableCollection Tasks\obj\Debug\ObservableCollection Tasks.pdb

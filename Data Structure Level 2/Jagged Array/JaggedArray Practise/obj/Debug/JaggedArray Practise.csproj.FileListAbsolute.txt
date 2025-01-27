@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Jagged Array\JaggedArray Practise\bin\Debug\JaggedArray Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Jagged Array\JaggedArray Practise\bin\Debug\JaggedArray Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Jagged Array\JaggedArray Practise\bin\Debug\JaggedArray Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Jagged Array\JaggedArray Practise\obj\Debug\JaggedArray Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Jagged Array\JaggedArray Practise\obj\Debug\JaggedArray Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Jagged Array\JaggedArray Practise\obj\Debug\JaggedArray Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Jagged Array\JaggedArray Practise\obj\Debug\JaggedArray Practise.pdb

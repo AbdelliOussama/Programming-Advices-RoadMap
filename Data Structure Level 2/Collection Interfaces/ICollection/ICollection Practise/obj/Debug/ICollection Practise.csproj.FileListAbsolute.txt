@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Collection Interfaces\ICollection\ICollection Practise\bin\Debug\ICollection Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Collection Interfaces\ICollection\ICollection Practise\bin\Debug\ICollection Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Collection Interfaces\ICollection\ICollection Practise\bin\Debug\ICollection Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Collection Interfaces\ICollection\ICollection Practise\obj\Debug\ICollection Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Collection Interfaces\ICollection\ICollection Practise\obj\Debug\ICollection Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Collection Interfaces\ICollection\ICollection Practise\obj\Debug\ICollection Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Collection Interfaces\ICollection\ICollection Practise\obj\Debug\ICollection Practise.pdb

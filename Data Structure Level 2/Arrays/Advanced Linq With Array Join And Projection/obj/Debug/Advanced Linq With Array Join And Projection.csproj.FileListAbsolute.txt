@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Arrays\Advanced Linq With Array Join And Projection\bin\Debug\Advanced Linq With Array Join And Projection.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Arrays\Advanced Linq With Array Join And Projection\bin\Debug\Advanced Linq With Array Join And Projection.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Arrays\Advanced Linq With Array Join And Projection\bin\Debug\Advanced Linq With Array Join And Projection.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Arrays\Advanced Linq With Array Join And Projection\obj\Debug\Advanced Linq With Array Join And Projection.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Arrays\Advanced Linq With Array Join And Projection\obj\Debug\Advanced Linq With Array Join And Projection.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Arrays\Advanced Linq With Array Join And Projection\obj\Debug\Advanced Linq With Array Join And Projection.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Arrays\Advanced Linq With Array Join And Projection\obj\Debug\Advanced Linq With Array Join And Projection.pdb

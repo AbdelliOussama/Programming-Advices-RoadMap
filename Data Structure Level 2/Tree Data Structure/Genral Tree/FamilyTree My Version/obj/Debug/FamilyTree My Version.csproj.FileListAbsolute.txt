@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\FamilyTree My Version\bin\Debug\FamilyTree My Version.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\FamilyTree My Version\bin\Debug\FamilyTree My Version.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\FamilyTree My Version\bin\Debug\FamilyTree My Version.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\FamilyTree My Version\obj\Debug\FamilyTree My Version.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\FamilyTree My Version\obj\Debug\FamilyTree My Version.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\FamilyTree My Version\obj\Debug\FamilyTree My Version.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Data Structure Level 2\Tree Data Structure\Genral Tree\FamilyTree My Version\obj\Debug\FamilyTree My Version.pdb
