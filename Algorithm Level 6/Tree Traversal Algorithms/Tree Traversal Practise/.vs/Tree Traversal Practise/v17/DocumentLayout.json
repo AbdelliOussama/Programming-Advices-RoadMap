@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Algorithm Level 6\\Tree Traversal Algorithms\\Tree Traversal Practise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1C803E-34D1-4C75-B11F-241DAA30BEB0}|Tree Traversal Practise.csproj|c:\\users\\oussa\\desktop\\self_learn\\mr  abuhadhoud roadmap\\algorithm level 6\\tree traversal algorithms\\tree traversal practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1C803E-34D1-4C75-B11F-241DAA30BEB0}|Tree Traversal Practise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Algorithm Level 6\\Tree Traversal Algorithms\\Tree Traversal Practise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\Self_learn\\Mr  Abuhadhoud RoadMap\\Algorithm Level 6\\Tree Traversal Algorithms\\Tree Traversal Practise\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAAADMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:23:31.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Tree Traversal Algorithms\Tree Traversal Practise\bin\Debug\Tree Traversal Practise.exe.config
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Tree Traversal Algorithms\Tree Traversal Practise\bin\Debug\Tree Traversal Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Tree Traversal Algorithms\Tree Traversal Practise\bin\Debug\Tree Traversal Practise.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Tree Traversal Algorithms\Tree Traversal Practise\obj\Debug\Tree Traversal Practise.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Tree Traversal Algorithms\Tree Traversal Practise\obj\Debug\Tree Traversal Practise.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Tree Traversal Algorithms\Tree Traversal Practise\obj\Debug\Tree Traversal Practise.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Tree Traversal Algorithms\Tree Traversal Practise\obj\Debug\Tree Traversal Practise.pdb

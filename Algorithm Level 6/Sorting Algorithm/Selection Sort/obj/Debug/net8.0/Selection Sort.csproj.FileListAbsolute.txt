@@ -1,0 +1,14 @@
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\bin\Debug\net8.0\Selection Sort.exe
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\bin\Debug\net8.0\Selection Sort.deps.json
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\bin\Debug\net8.0\Selection Sort.runtimeconfig.json
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\bin\Debug\net8.0\Selection Sort.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\bin\Debug\net8.0\Selection Sort.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\obj\Debug\net8.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\obj\Debug\net8.0\Selection Sort.AssemblyInfoInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\obj\Debug\net8.0\Selection Sort.AssemblyInfo.cs
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\obj\Debug\net8.0\Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\obj\Debug\net8.0\Selection Sort.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\obj\Debug\net8.0\refint\Selection Sort.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\obj\Debug\net8.0\Selection Sort.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\obj\Debug\net8.0\Selection Sort.genruntimeconfig.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Algorithm Level 6\Selection Sort\obj\Debug\net8.0\ref\Selection Sort.dll
