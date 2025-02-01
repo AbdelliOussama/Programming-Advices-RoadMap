@@ -1,0 +1,11 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\bin\Debug\DelegateExmple.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\bin\Debug\DelegateExmple.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\bin\Debug\DelegateExmple.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\obj\Debug\DelegateExmple.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\obj\Debug\DelegateExmple.Form1.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\obj\Debug\DelegateExmple.Form2.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\obj\Debug\DelegateExmple.Properties.Resources.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\obj\Debug\DelegateExmple.csproj.GenerateResource.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\obj\Debug\DelegateExmple.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\obj\Debug\DelegateExmple.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Driving Licences Managment Project\Lesson User Controls\SendData_Back_With_Delegate\SendDataBackWithDelegt_Exmple2\DelegateExmple\obj\Debug\DelegateExmple.pdb

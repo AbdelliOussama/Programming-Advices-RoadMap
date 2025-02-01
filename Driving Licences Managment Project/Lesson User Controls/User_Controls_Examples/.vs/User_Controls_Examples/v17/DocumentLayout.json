@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFD4062-4CB8-4537-9D0F-7EB8A1C86DE6}|User_Controls_Examples.csproj|C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\cntrsimplecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFD4062-4CB8-4537-9D0F-7EB8A1C86DE6}|User_Controls_Examples.csproj|solutionrelative:cntrsimplecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFD4062-4CB8-4537-9D0F-7EB8A1C86DE6}|User_Controls_Examples.csproj|C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\cntrsimplecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DFD4062-4CB8-4537-9D0F-7EB8A1C86DE6}|User_Controls_Examples.csproj|solutionrelative:cntrsimplecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFD4062-4CB8-4537-9D0F-7EB8A1C86DE6}|User_Controls_Examples.csproj|C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DFD4062-4CB8-4537-9D0F-7EB8A1C86DE6}|User_Controls_Examples.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFD4062-4CB8-4537-9D0F-7EB8A1C86DE6}|User_Controls_Examples.csproj|c:\\users\\oussa\\onedrive\\bureau\\self_learn\\driving licences managment project\\lesson user controls\\user_controls_examples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFD4062-4CB8-4537-9D0F-7EB8A1C86DE6}|User_Controls_Examples.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:12:03.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cntrSimpleCalc.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\cntrSimpleCalc.cs",
+              "RelativeDocumentMoniker": "cntrSimpleCalc.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\cntrSimpleCalc.cs",
+              "RelativeToolTip": "cntrSimpleCalc.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:51:08.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cntrSimpleCalc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\cntrSimpleCalc.cs",
+              "RelativeDocumentMoniker": "cntrSimpleCalc.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\cntrSimpleCalc.cs [Design]",
+              "RelativeToolTip": "cntrSimpleCalc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:49:43.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Bureau\\Self_learn\\Driving Licences Managment Project\\Lesson User Controls\\User_Controls_Examples\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:46:28.95Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 804,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

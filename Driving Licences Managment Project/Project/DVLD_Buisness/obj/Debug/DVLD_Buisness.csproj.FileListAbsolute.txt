@@ -1,0 +1,36 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\oussa\OneDrive\Bureau\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\oussa\Desktop\Self_learn\Mr  Abuhadhoud RoadMap\Driving Licences Managment Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
