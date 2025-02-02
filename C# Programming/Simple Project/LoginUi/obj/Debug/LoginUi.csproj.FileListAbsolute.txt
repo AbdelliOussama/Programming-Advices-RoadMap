@@ -1,0 +1,11 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\bin\Debug\LoginUi.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\bin\Debug\LoginUi.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\bin\Debug\LoginUi.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\obj\Debug\LoginUi.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\obj\Debug\LoginUi.frmLogin.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\obj\Debug\LoginUi.Properties.Resources.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\obj\Debug\LoginUi.csproj.GenerateResource.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\obj\Debug\LoginUi.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\obj\Debug\LoginUi.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\obj\Debug\LoginUi.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\LoginUi\obj\Debug\LoginUi.Registration.resources

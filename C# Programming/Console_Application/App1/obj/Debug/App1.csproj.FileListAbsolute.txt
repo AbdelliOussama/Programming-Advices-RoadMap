@@ -1,0 +1,7 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Console_Application\App1\bin\Debug\App1.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Console_Application\App1\bin\Debug\App1.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Console_Application\App1\bin\Debug\App1.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Console_Application\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Console_Application\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Console_Application\App1\obj\Debug\App1.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Console_Application\App1\obj\Debug\App1.pdb

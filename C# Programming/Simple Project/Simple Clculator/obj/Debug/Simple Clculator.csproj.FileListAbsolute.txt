@@ -1,0 +1,13 @@
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\obj\Debug\Simple Clculator.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\obj\Debug\Simple_Clculator.frmMyCalculator.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\obj\Debug\Simple_Clculator.Properties.Resources.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\obj\Debug\Simple Clculator.csproj.GenerateResource.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\obj\Debug\Simple Clculator.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\bin\Debug\Simple Clculator.exe.config
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\bin\Debug\Simple Clculator.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\bin\Debug\Simple Clculator.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\obj\Debug\Simple Clculator.exe
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\obj\Debug\Simple Clculator.pdb
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\obj\Debug\Simple_Clculator.frmCalculatorMenu.resources
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\bin\Debug\Guna.UI.dll
+C:\Users\oussa\OneDrive\Bureau\Self_learn\C# Programming\Simple Project\Simple Clculator\obj\Debug\Simple C.71D71377.Up2Date
